@@ -5,3 +5,11 @@ Il s'agit d'un projet autour des données de l'organisation des nations unies po
 ---
 
 It's a project about the Food and agriculture organisation of the United Nations data.
+
+---
+
+Compétences utilisées / Skills used : 
+- Python programmation
+- Jupyter
+- Adaptation
+- Communication / PowerPoint
